@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Cloud
+* Azure
+
+# Software Development
+* ASP.NET Core / C#
+* Go
+* NodeJs
+* Python
+
+# Infrastructure as Code (IaC)
+* Terraform
+* ARM Templates
+* Bicep
+
+# DevOps
+* Azure CLI
+* Azure PowerShell
+* Azure DevOps
+* GitHub Enterprise
+* GitHub Actions
